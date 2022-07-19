@@ -1,0 +1,41 @@
+/* ----Font styles---- */
+@import url('https://fonts.googleapis.com/css2?family=Edu+QLD+Beginner:wght@500&family=Ibarra+Real+Nova:wght@500&family=Josefin+Sans&family=Oswald&family=Pacifico&family=Poppins:wght@400;500&family=The+Nautigal:wght@700&display=swap');
+
+body{
+    font-family: 'Ibarra Real Nova', serif;
+}
+
+/* ------header styles----- */
+
+.top-banner{
+    display: flex;
+    background-color: #161616;
+    width: 1200px;
+    height: 600px;
+    margin-top: 50px;
+    margin-left: 150px;
+    border-radius: 30px;
+}
+.banner-heading{
+    font-size: 60px;
+}
+.banner-text{
+    color: white;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.banner-link{
+    color: white;
+    text-decoration: none;
+    background-color: rgb(203, 74, 34);
+    padding: 8px 20px;
+    border-radius: 5px;
+}
+.special{
+    color: orange;
+}
+.banner-image img{
+    width: 570px;
+    height: 599px;
+    margin-right: 10px;
+}
